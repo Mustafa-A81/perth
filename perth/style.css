@@ -1,0 +1,91 @@
+@font-face{
+    font-family: 'blackjackregular';
+    src: url('blackjar-webfont.woff2') format('woff2'),
+        url('blackjar-webfont.woff') format('woff'),
+        url('blackjar.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+.turquoise{
+    background-color: #61c0e7 !important;
+}
+.turquoise::before{
+    background-color: #61c0e7 !important;
+    opacity: 25% !important;
+}
+.turquoise::after{
+    background-color: #61c0e7 !important;
+    opacity: 25% !important;
+}
+.nav_button{
+    color: #61c0e7 !important;
+}
+.meet{
+    font-size: 5vw !important;
+    font-family: "blackjackregular" !important;
+    float: right !important;
+}
+.meet_text{
+    font-size: 3.2vw !important;
+}
+.download{
+    float: right !important;
+}
+.center_img{
+    float: right !important;
+    padding-right: 0px;
+    margin-right: 0px;
+}
+.line{
+    border-left: 5px solid #61c0e7 !important;
+}
+.download_two{
+    float: left !important;
+    color: #61c0e7 !important;
+    border: 2px solid #61c0e7 !important;
+}
+.download_two:hover{
+    background-color: #61c0e7 !important;
+    color: #fff !important;
+}
+.download_three{
+    float: left !important;
+    color: #f70f9a !important;
+    border: 2px solid #f70f9a !important;
+}
+.download_three:hover{
+    background-color: #f70f9a !important;
+    color: #fff !important;
+}
+.green_blue{
+    background-color: #0af9d1 !important;
+}
+.icon_button_baseball{
+    color: #0c0c0c !important;
+    border: #0c0c0c solid 1px !important;
+}
+.icon_baseball:hover{
+    color: #f54009 !important;
+}
+.icon_button_facebook{
+    color: #0c0c0c !important;
+    border: #0c0c0c solid 1px !important;
+}
+.icon_facebook:hover{
+    color: #3b5998 !important;
+}
+.icon_button_twitter{
+    color: #0c0c0c !important;
+    border: #0c0c0c solid 1px !important;
+}
+.icon_twitter:hover{
+    color: #00aced !important;
+}
+.icon_button_paper-plane{
+    color: #0c0c0c!important;
+    border: #0c0c0c solid 1px !important;
+}
+.icon_paper-plane:hover{
+    color: #098000 !important;
+}
+
